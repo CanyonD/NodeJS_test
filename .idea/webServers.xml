@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aa11ff68-1951-4559-a451-ad687a805270" name="sentos7_js" url="http://213.111.121.83">
+        <fileTransfer host="213.111.121.83" port="1133" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1133" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
