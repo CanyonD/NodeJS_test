@@ -3,6 +3,7 @@ var http = require("http"),
     path = require("path"),
     fs = require("fs"),
     port = process.argv[2] || 8080;
+var React = require('react');
 
 http.createServer(function(request, response) {
 
